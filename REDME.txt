@@ -1,0 +1,4 @@
+Esta práctica pertenece al capitulo 3 de Head_First_HTML_and_CSS_Elisabeth_Robson_Eric_Freeman.
+En esta practica se estudian las principales etiquetas para estructurar el contenido de la pagina web.
+ademas de algunos conceptos importantes como son los elementos de bloque y de linea, las etiquetas vacías y 
+algunas buenas practicas para la buena codificación.
